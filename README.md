@@ -1,3 +1,5 @@
+<img src="JarvisAI.png" alt="Jarvis AI Banner" style="width:100%;"/>
+
 # 🧠 Jarvis AI – Voice-Activated Desktop Assistant
 
 Jarvis AI is a Python-based personal assistant that listens to your voice, thinks using Hugging Face AI, and talks back like a real human assistant.
