@@ -32,12 +32,10 @@ apikey = "hf_your_huggingface_token_here"
 
 
 # 📦 Requirements
-nginx
-Copy
-Edit
 speechrecognition
 requests
 pywin32
+
 
 # 🤖 Powered by
 Hugging Face Zephyr 7B: https://huggingface.co/HuggingFaceH4/zephyr-7b-beta
