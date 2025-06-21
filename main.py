@@ -77,14 +77,14 @@ if __name__ == "__main__":
             say(f"The time is {dTime}")
 
         elif "open spotify" in query.lower():
-            folderPath = r"C:\Users\saaks\AppData\Roaming\Spotify\Spotify.exe"
+            folderPath = r"[your-spotify-path]"
             if os.path.exists(folderPath):
                 os.startfile(folderPath)
             else:
                 print("[Jarvis] Folder not found.")
 
         elif "open discord".lower() in query.lower():
-            folderPath = r"C:\Users\saaks\AppData\Local\Discord\Update.exe --processStart Discord.exe"
+            folderPath = r"[your-discord-path]"
             if os.path.exists(folderPath):
                 os.startfile(folderPath)
             else:
