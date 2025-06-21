@@ -1,0 +1,11 @@
+# Hide secret config
+config.py
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore IDE files
+.idea/
+
+# Ignore virtual environment
+.venv/
