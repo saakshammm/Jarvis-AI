@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ````
 3. Create a `config.py` file in the project root with your Hugging Face API key:
 ```python
-apikey = "hf_your_huggingface_token_here"
+apikey = "[your-hugging-face-api-key]" # create your api in read mode 
 ````
 
 4. Run the assistant:
